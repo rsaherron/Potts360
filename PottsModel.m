@@ -39,7 +39,7 @@ classdef PottsModel < handle
         
         function h = plot(obj)
             obj.HSV(:,:,1) = obj.state/(2*pi) + 0.5;
-            h = imshow(hsv2rgb(obj.HSV),'Parent',obj.ax_handle);
+            h = imshow(hsv2rgb(obj.HSV),'Parent',obj.ax_handle,'XData',[-1.25,1.75],'YData',[-1.25,1.75]);
         end
         
         function MC_step(obj,N,J,h,h_theta,alpha)

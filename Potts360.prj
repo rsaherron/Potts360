@@ -1,19 +1,19 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1347841289" file="/Users/AdamHerron/Projects/Potts360/Potts360_App.prj" location="/Users/AdamHerron/Projects/Potts360" name="Potts360_App" target="target.mlapps" target-name="Package App">
-    <param.appname>Potts360_App</param.appname>
+  <configuration build-checksum="902249581" file="/Users/AdamHerron/Projects/Potts360/Potts360.prj" location="/Users/AdamHerron/Projects/Potts360" name="Potts360" target="target.mlapps" target-name="Package App">
+    <param.appname>Potts360</param.appname>
     <param.authnamewatermark>Adam D. Herron</param.authnamewatermark>
     <param.email>rsaherron@gmail.com</param.email>
     <param.company>Brigham Young University</param.company>
-    <param.icon>${PROJECT_ROOT}/Potts360_App_resources/icon_24.png</param.icon>
+    <param.icon>${PROJECT_ROOT}/Potts360_resources/icon_24.png</param.icon>
     <param.icons>
-      <file>${PROJECT_ROOT}/Potts360_App_resources/icon_48.png</file>
-      <file>${PROJECT_ROOT}/Potts360_App_resources/icon_24.png</file>
-      <file>${PROJECT_ROOT}/Potts360_App_resources/icon_16.png</file>
+      <file>${PROJECT_ROOT}/Potts360_resources/icon_48.png</file>
+      <file>${PROJECT_ROOT}/Potts360_resources/icon_24.png</file>
+      <file>${PROJECT_ROOT}/Potts360_resources/icon_16.png</file>
     </param.icons>
     <param.summary>Potts Monte Carlo Magnitization Simulation</param.summary>
     <param.description />
     <param.screenshot>${PROJECT_ROOT}/ScreenCapture.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.version>1.1</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -22,7 +22,6 @@
     <param.guid>5ffb6138-48a2-4810-a6a2-5c19c2c05368</param.guid>
     <unset>
       <param.description />
-      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
