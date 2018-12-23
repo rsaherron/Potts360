@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3892095062" file="/Users/AdamHerron/Projects/Potts360/Potts360.prj" location="/Users/AdamHerron/Projects/Potts360" name="Potts360" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1706076849" file="/Users/AdamHerron/Projects/Potts360/Potts360.prj" location="/Users/AdamHerron/Projects/Potts360" name="Potts360" target="target.mlapps" target-name="Package App">
     <param.appname>Potts360</param.appname>
     <param.authnamewatermark>Adam D. Herron</param.authnamewatermark>
     <param.email>rsaherron@gmail.com</param.email>
@@ -13,7 +13,7 @@
     <param.summary>Potts Monte Carlo Magnitization Simulation</param.summary>
     <param.description />
     <param.screenshot>${PROJECT_ROOT}/ScreenCapture.png</param.screenshot>
-    <param.version>1.1</param.version>
+    <param.version>1.2</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
